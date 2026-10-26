@@ -16,7 +16,8 @@ I also modified the LED footprints for front mounting, corrected silkscreen issu
 
 Finally, I checked the design using KiCad's Design Rules Checker, achieving zero electrical errors and zero unconnected items. I also began customizing the PCB with rounded corners and planned music-themed artwork and personalized lettering.
 
+<img width="722" height="444" alt="final" src="https://github.com/user-attachments/assets/152aa839-2c3f-4d97-aab5-252bb003ca99" />
 <img width="1092" height="634" alt="final3" src="https://github.com/user-attachments/assets/7ec1e444-74c2-442f-9934-c4f973462289" />
 <img width="1258" height="680" alt="final2" src="https://github.com/user-attachments/assets/e18f92f5-5c58-488d-add4-9da6f57e2704" />
-<img width="722" height="444" alt="final" src="https://github.com/user-attachments/assets/152aa839-2c3f-4d97-aab5-252bb003ca99" />
+
 
